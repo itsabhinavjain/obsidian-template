@@ -1,0 +1,1167 @@
+{
+  "choices": [
+    {
+      "id": "a3999ccf-f715-4a8a-af99-1b9b7efccfa6",
+      "name": "Template - Global - Topic",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/global_topic_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Topic - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/03 Topics/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "524076c6-c635-4d6e-852a-21751256b36b",
+      "name": "Template - Global - Session",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/global_session_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}}_Session_{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/07 Sessions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "01c55f63-408d-4e44-a1f2-5d3bfa29aff8",
+      "name": "Template - Global - Lessons",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/global_lesson_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "List of Lessons - {{value}} - Lessons"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/06 Lessons"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "0c443e50-fce8-4195-babc-74857a0e30e0",
+      "name": "Template - Global - Business Idea",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/global_business_idea_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Business Idea - Research - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/08 Sectors and Ideas"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "71345e7f-9e4a-49ee-84f2-6390c153d3c0",
+      "name": "Template - Global - Business Theme",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/global_business_theme_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Theme research - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/08 Sectors and Ideas"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "00ec6f13-0ecf-4ba6-9601-793c96ffbfb7",
+      "name": "Template - Global - Sector Research",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/global_sector_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Sector research - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/08 Sectors and Ideas"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "2198243a-5e09-46b2-aa56-b0eeaf518a44",
+      "name": "Template - Global - Tools",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/global_tools_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Tools - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/05 Tools"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "985b6ccc-b85e-4f9a-ae6d-fe9912c1d7ea",
+      "name": "Template - Global - Project",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/hubs/global_hub_project_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Project - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/12 Projects"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "d6b565ff-5603-4678-a35f-b8be4c747a71",
+      "name": "Template - Global - Prompts",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/global_prompt_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Prompts - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/14 Prompts"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "3db04619-d2da-4cb7-8918-6601184be5f3",
+      "name": "Template - Global - Trends News and Updates",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/global_news_and_updates_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Trends - News - Updates - {{value}} - Updates"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/15 Trends - News - Updates/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "1574da6b-ba8a-4039-901f-d03a2d560d83",
+      "name": "Template - Global Hub - Area",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/hubs/global_hub_area_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Area - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/01 Global Hubs"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "c9ceec7a-5ad2-4e86-ae55-62fe7c1af5fd",
+      "name": "Template - Global Hub - Subject",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/hubs/global_hub_subject_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Skill - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/01 Global Hubs"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "6ec17dab-98ad-45fa-8ad9-c49ad9af7052",
+      "name": "Template - Global Hub - List",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/hubs/global_hub_list_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "List of {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/01 Global Hubs"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "a2568079-c9d0-450b-8ffd-e69ca82e8724",
+      "name": "Template - Global Database - Contact",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/database/contact_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "@{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/09 Database/contacts/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "bb1b55e9-693b-41fd-8b6a-fcc4f998d739",
+      "name": "Template - Global Database - Person",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/database/person_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "@{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/09 Database/people/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "485bb26b-e5ce-48cc-a7af-54132e7b13a0",
+      "name": "Template - Global Database - Meeting General",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/database/meeting_general_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}}_General-Meeting_{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/09 Database/meetings/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "9075e83d-fa87-4e93-835f-f56919afae58",
+      "name": "Template - Global Database - Meeting Professional",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/database/meeting_professional_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}}_Professional-Meeting_{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/09 Database/meetings/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "063c4f26-9b86-46db-b3f3-f0b599163c49",
+      "name": "Template - Global Database - Memory",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/database/memory_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}}_Memory_{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/09 Database/memories/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "d94e8f17-229b-49a3-bbac-22a23a015ec8",
+      "name": "Template - Global Database - Place",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/database/place_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Place - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/09 Database/places/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "83099135-4ba7-4dc7-a962-de61235a3927",
+      "name": "Template - Global Database - Company",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/database/company_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Company - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/09 Database/companies"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "f0bbfda1-75a0-4a29-85cf-314df1d1acd2",
+      "name": "Template - Global Special - Cards",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_card_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Card - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/03 Special Notes/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "15f3132d-1701-43b1-8937-4507e7432476",
+      "name": "Template - Global Special - Concept",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_concept_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Concept - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/03 Special Notes/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "bbf830b6-7d9a-46e0-a9cd-cbebd9513703",
+      "name": "Template - Global Special - Workflow",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_workflow_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Workflow - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/03 Special Notes/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "9b0e3545-b074-4510-b045-50aaa90d84e1",
+      "name": "Template - Global Special - Design Pattern",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_design_pattern_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Design Pattern - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/03 Special Notes/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "ba47134a-6ae3-4e07-a83a-00a96f2ebf9e",
+      "name": "Template - Global Special - Framework",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_framework_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Framework - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/03 Special Notes/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "c7a86200-e1f1-47a4-97fa-a4b5928cfb01",
+      "name": "Template - Global Special - Template",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_template_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Template - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/03 Special Notes/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "88c49928-9e23-45c1-85d4-8fe0b1efd185",
+      "name": "Template - Global Special - Checklist",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_checklist_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Checklist - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "/02 02 Global Notes/03 Special Notes/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "22034f4b-f89a-4594-81c4-e94c4bcdebed",
+      "name": "Template - Global Resource - Main Idea",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/resources/global_resource_main_idea.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Resource - Main Idea - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/04 Resources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "b54f1b9a-375a-46c4-bd21-e0a42866e196",
+      "name": "Template - Global Resource - Article",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/resources/global_resource_article.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Resource - Article - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/04 Resources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "f7a45d8e-1267-469d-a986-b21c18bca93e",
+      "name": "Template - Global Resource - Book",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/resources/global_resource_book.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Resource - Book - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/04 Resources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "43bb6ca2-8346-45fc-8e60-da945ad2ff57",
+      "name": "Template - Global Resource - Course",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/resources/global_resource_course.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Resource - Course - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/04 Resources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "ec0b95f4-ab6b-4853-8ba7-52685756a6db",
+      "name": "Template - Global Resource - Podcast",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/resources/global_resource_podcast.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Resource - Podcast - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/04 Resources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "c51e037a-ca70-40e7-b3d5-d6224f4beeec",
+      "name": "Template - Global Resource - Video",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/resources/global_resource_video.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Resource - Video - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/04 Resources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "f8cc05a3-512e-44ed-99f7-a443c5e4879d",
+      "name": "Template - Global Resource - Report",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/resources/global_resource_report.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Resource - Report - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/04 Resources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "856b32bc-9f7c-4de2-98e2-ca0505798212",
+      "name": "Template - Global Resource - Story",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/resources/global_resource_story.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Resource - Story - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/04 Resources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "e133c123-68f8-46e1-81d2-3dcc337390be",
+      "name": "Template - Global Resource - Case Study",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/global_notes/resources/global_resource_case_study.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Resource - Case Study - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/04 Resources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "b8c70a0d-2743-4ada-8674-e97c52530f8c",
+      "name": "Template - Global - General Note",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/general_note_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/02 General Notes",
+          "/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "b643ed73-328e-4e04-b2e6-444d1c984307",
+      "name": "Template - Global - General Note - Here",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99_templates/notes/general_note_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 02 Global Notes/02 General Notes",
+          "/"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": true,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "99_templates",
+  "announceUpdates": true,
+  "version": "1.6.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

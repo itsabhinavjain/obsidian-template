@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "99_templates/core_journal/daily_note_template.md",
+    "folder": "01 00 Core Journal/daily",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "99_templates/core_journal/weekly_note_template.md",
+    "folder": "01 00 Core Journal/weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "99_templates/core_journal/monthly_note_template.md",
+    "folder": "01 00 Core Journal/monthly",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "99_templates/core_journal/quarterly_note_template.md",
+    "folder": "01 00 Core Journal/quarterly",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "99_templates/core_journal/yearly_note_template.md",
+    "folder": "01 00 Core Journal/yearly",
+    "enabled": true
+  }
+}

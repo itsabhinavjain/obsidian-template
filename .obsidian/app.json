@@ -1,0 +1,44 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99_assets/01 default",
+  "userIgnoreFilters": [
+    "05 00 Archives/Not Searchable/",
+    "99_assets/01 default/"
+  ],
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "mobileToolbarCommands": [
+    "editor:toggle-bullet-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-fold",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-numbered-list",
+    "editor:insert-link",
+    "editor:toggle-checklist-status",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar"
+  ],
+  "propertiesInDocument": "source",
+  "showLineNumber": false,
+  "focusNewTab": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "74838d0a3dd83b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f21f0c93fa49e06e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54a069d36575b2e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d863163f6940051",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c68b95b8852b1ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 02 Global Notes/02 General Notes/Gurgaon Rent Search.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "042374b99bf42128",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b6beec9c913a75a3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7f5fd106bce1c085",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9c96d8bc6155c234",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "edf6752d75cb30b3",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      },
+      {
+        "id": "9e62909446060488",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ff45ac64bbc2d0e5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4c3f4cacb29a5030",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "d0e3e6f2dbc0f4dc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02 02 Global Notes/02 General Notes/Gurgaon Rent Search.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cadf754843ff486c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02 02 Global Notes/02 General Notes/Gurgaon Rent Search.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dd1ad79d748e4a82",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "02 02 Global Notes/02 General Notes/Gurgaon Rent Search.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "templates:Insert template": true,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "c68b95b8852b1ef8",
+  "lastOpenFiles": [
+    "01 00 Core Journal/monthly/2024-01.md",
+    "03 03 Skills and Resources - Cap Buckets/03 Product Development/notes/Concept - Search - Searching.md",
+    "03 03 Skills and Resources - Cap Buckets/03 Product Development - Artificial Intelligence/notes/Machine Learning notes/ML - Search algorithms.md",
+    "03 03 Skills and Resources - Cap Buckets/03 Product Development - Artificial Intelligence/notes/Machine Learning - ML - AI - Generative - GenAI - Use Cases and Solutions.md",
+    "01 01 Inbox/Inbox - Links Dump.md",
+    "01 00 Core Journal/daily/2023-12-07.md",
+    "01 00 Core Journal/monthly/2023-12.md",
+    "01 00 Core Journal/monthly/2023-11.md",
+    "01 00 Core Journal/monthly/2023-10.md",
+    "01 00 Core Journal/monthly/2023-09.md",
+    "01 00 Core Journal/daily/2023-09-16.md",
+    "99_assets/01-default/IMG_4165.png",
+    "Stock Market.md",
+    "03 03 Capability Buckets/03 Product Development/_notes/8.9 DevOps - Cloud - Microsoft Azure.md",
+    "Mobile pad - Mobile inputs.md",
+    "01 01 Inbox/Roughpad (Fleeting notes).md",
+    "02 02 Global Notes/09 Database/people/@Aswath Damodaran (Finance and Valuation).md",
+    "02 02 Global Notes/03 Topics/On - Country Politics.md",
+    "Mobile inputs.md",
+    "01 00 Core Journal/daily/2023-09-09.md",
+    "03 03 Capability Buckets/03 Product Development/_notes/8.2 Python - Native.md",
+    "01 01 Inbox/Links Dump.md",
+    "99_assets/01-default/Bagging in emsemble learning.png",
+    "03 03 Capability Buckets/03 Product Development/_notes/Concept - Designing APIs and Microservices.md",
+    "03 03 Capability Buckets/03 Product Development/_notes/8.9 DevOps - Cloud - GCP - Google Cloud Platform.md",
+    "03 03 Capability Buckets/03 Product Development/_notes/8.1 PHP - Native.md",
+    "01 00 Core Journal/daily/2023-09-13.md",
+    "99_assets/01-default/Batch normalization.png",
+    "99_assets/01-default/Types of machine learing.png",
+    "03 03 Capability Buckets/03 Product Development - Artificial Intelligence/_notes/Machine Learning notes/ML - Multi-task learning - Multi-task ranking system.md",
+    "99_assets/01-default/AirBnB - Multi-task learning.png",
+    "99_assets/01-default/Youtube multi-task ranking.png",
+    "99_assets/01-default/Ranking algorithms.png",
+    "99_assets/01-default/Confusion Matrix.png",
+    "99_assets/01-default/K Fold Cross Validation.png",
+    "99_assets/01-default/Precision and Recall.png",
+    "99 00 Obsidian/scripts/newNote.js",
+    "99 00 Obsidian/scripts/hideYaml.js",
+    "99 00 Obsidian/scripts/makeProgressBar.js",
+    "02 02 Global Notes/03 Topics",
+    "02 02 Global Notes/04 Resources",
+    "99_templates/notes/special-notes/global_notes",
+    "03 02 Areas/02 Relationships/assets",
+    "03 02 Areas/01 Essentials/assets",
+    "03 02 Areas/01 Essentials/notes",
+    "03 02 Areas/04 Work/assets"
+  ]
+}

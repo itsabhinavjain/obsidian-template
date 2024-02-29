@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "snippets",
+    "cornell"
+  ],
+  "translucency": false
+}
