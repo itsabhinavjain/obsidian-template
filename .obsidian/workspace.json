@@ -11,20 +11,16 @@
             "id": "172a48305da61c34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d5f7367924184499",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "99 00 Obsidian/Obsidian - Mechanics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "99 00 Obsidian/Obsidian - Mechanics.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "99 00 Obsidian/Obsidian - Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "99 00 Obsidian/Obsidian - Mechanics.md"
+              }
             }
           },
           {
@@ -144,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "99 00 Obsidian/Obsidian - Mechanics.md"
+              }
             }
           },
           {
@@ -160,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -168,20 +169,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
       "templates:Insert template": true,
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
+      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5f7367924184499",
+  "active": "bc445c94fc46dba7",
   "lastOpenFiles": [
+    "99 00 Obsidian/Obsidian - Mechanics.md",
     "02 02 Global Notes/01 Global Hubs/List of Tasks.md",
     "03 03 Subjects and Resources/04 Consumer Insights and Research/List of Customer Segments - Consumer Segments - Personas.md",
     "02 02 Global Notes/01 Global Hubs/List of Segmentation Axis - Data Points for Profiling and Targetting.md",
@@ -207,7 +208,6 @@
     "03 03 Subjects and Resources/09 Product Development/notes/8.2.4 Python - FastAPI - Deep Dive.md",
     "03 01 Projects/Marriage/Project - Marriage.md",
     "03 02 Areas/04 Work/startup/List of - Sectors - Business Themes - Startup Ideas - Models - Monetisation - Research.md",
-    "03 01 Projects/Regisedge/product - chatbots/Blueprint - Building - Developing Chatbots and Voicebots.md",
     "design_and_prototyping_resources",
     "99_assets/01 default/Docker Container Lifecycle.png",
     "03 01 Projects/Regisedge/product - operating systems",

@@ -1,0 +1,45 @@
+
+- Obsidian philosophy and the philosophy around productivity in general in a different file
+## What this repo contains? 
+- Opinions 
+	- Opinion on various sections in a note 
+		- Navigation 
+		- Summary 
+		- Table of contents 
+		- (Details)
+		- References
+		- Additional metadata
+		- Rough notes
+	- List of folders - and how information should be organised 
+		- Setup of dates and journals 
+		- Setup of the common type of notes
+		- Folder structure
+	- List of plugins and their configuration 
+		- Calendar and Periodic Notes
+		- Dataview 
+		- Templater
+		- Excalidraw 
+		- QuickAdd 
+		- QuickSwitcher++ 
+		- Git 
+		- Natual Language Notes 
+		- Paste Image Rename
+		- Theme settings 
+	- List of keyboard shortcuts for efficiency 
+## Initial setup of a new vault 
+- Copy into a different folder 
+- Fix the special notes (Most in the root)
+	- Entry points to the vault - The most widely used and current focus area and notes
+- Fix various types of note
+	- Templates, Folders, QuickAdd and List 
+## Using the vault 
+- Special notes
+- For each type of notes 
+	- Create a template 
+	- Create a folder 
+	- Create a QuickAdd
+	- Create a list of that type 
+- Tags 
+	- Bullet tags 
+	- Status tags 
+	- Type tags 
