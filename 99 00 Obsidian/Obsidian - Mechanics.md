@@ -66,4 +66,5 @@
 	- Type tags - #type
 ## Later
 - Folders like contacts, person, companies etc can be synced across multiple vaults. 
+	- Also sync the templates of these entities across various vaults. 
 - Use a local LLM setup to asks questions to your particular vault 
