@@ -64,3 +64,6 @@
 		- #status/waiting : Waiting for another task or person to give an input  
 		- #status/sort : Still to sort this out at a later point in time
 	- Type tags - #type
+## Later
+- Folders like contacts, person, companies etc can be synced across multiple vaults. 
+- Use a local LLM setup to asks questions to your particular vault 
