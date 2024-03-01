@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "99_templates",
+  "templates_folder": "99 00 Obsidian/obsidian-templates",
   "templates_pairs": [
     [
       "",
@@ -11,34 +11,33 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "99 00 Obsidian/scripts",
+  "user_scripts_folder": "99 00 Obsidian/obsidian-scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "01 00 Core Journal/daily",
-      "template": "99_templates/core_journal/daily_note_template.md"
+      "template": "99 00 Obsidian/obsidian-templates/core_journal/daily_note_template.md"
     },
     {
       "folder": "01 00 Core Journal/weekly",
-      "template": "99_templates/core_journal/weekly_note_template.md"
+      "template": "99 00 Obsidian/obsidian-templates/core_journal/weekly_note_template.md"
     },
     {
       "folder": "01 00 Core Journal/monthly",
-      "template": "99_templates/core_journal/monthly_note_template.md"
+      "template": "99 00 Obsidian/obsidian-templates/core_journal/monthly_note_template.md"
     },
     {
       "folder": "01 00 Core Journal/quarterly",
-      "template": "99_templates/core_journal/quarterly_note_template.md"
+      "template": "99 00 Obsidian/obsidian-templates/core_journal/quarterly_note_template.md"
     },
     {
       "folder": "01 00 Core Journal/yearly",
-      "template": "99_templates/core_journal/yearly_note_template.md"
+      "template": "99 00 Obsidian/obsidian-templates/core_journal/yearly_note_template.md"
     }
   ],
   "syntax_highlighting": true,
-  "enabled_templates_hotkeys": [
-    "99_templates/system/hide_unhide_yaml.md"
-  ],
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
   ],

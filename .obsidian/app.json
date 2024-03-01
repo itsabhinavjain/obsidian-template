@@ -1,9 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "99_assets/01 default",
+  "attachmentFolderPath": "99 00 Obsidian/obsidian-assets/01 default",
   "userIgnoreFilters": [
-    "05 00 Archives/Not Searchable/",
-    "99_assets/01 default/"
+    "90 00 Archives/Not Searchable/",
+    "99 00 Obsidian/obsidian-assets/01 default/"
   ],
   "showUnsupportedFiles": true,
   "readableLineLength": false,

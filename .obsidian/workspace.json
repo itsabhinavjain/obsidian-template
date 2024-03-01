@@ -4,18 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "e629b2cf689bcf63",
+        "id": "f21f0c93fa49e06e",
         "type": "tabs",
         "children": [
           {
-            "id": "a5dad920d7e06287",
+            "id": "172a48305da61c34",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5f7367924184499",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +180,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a5dad920d7e06287",
+  "active": "d5f7367924184499",
   "lastOpenFiles": [
     "02 02 Global Notes/01 Global Hubs/List of Tasks.md",
     "03 03 Subjects and Resources/04 Consumer Insights and Research/List of Customer Segments - Consumer Segments - Personas.md",
