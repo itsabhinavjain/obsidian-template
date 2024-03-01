@@ -2,7 +2,7 @@ The directory contains a general template that I use to get started with a new o
 
 The mechanics is explained in [[Obsidian - Mechanics]]
 
-Please feel free to make any changes or suggest and PR changes. 
+Please feel free to raise any PR changes.  
 
 
 
