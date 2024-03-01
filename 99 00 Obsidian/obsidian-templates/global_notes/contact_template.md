@@ -30,7 +30,7 @@ aliases:
 
 ---
 ## Additional metadata
-Type:: #type/database/contact 
+Type:: #type/contact
 
 Topic:: 
 Role:: 

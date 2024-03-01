@@ -14,5 +14,5 @@
 ## Additional metadata
 Date of meeting:: [[<% tp.date.now("YYYY-MM-DD") %>]]
 Attended by::   <% tp.file.cursor() %>
-Type:: #type/database/meeting/general
+Type:: #type/meeting/general
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 00 Obsidian/Obsidian - Mechanics.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 00 Obsidian/Obsidian - Mechanics.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 00 Obsidian/Obsidian - Mechanics.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 00 Obsidian/Obsidian - Mechanics.md"
+                "file": "README.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "99 00 Obsidian/Obsidian - Mechanics.md"
+                "file": "README.md"
               }
             }
           },
@@ -161,11 +162,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +182,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc445c94fc46dba7",
+  "active": "172a48305da61c34",
   "lastOpenFiles": [
+    "99 00 Obsidian/obsidian-templates/global_notes/global_hub_list_template.md",
     "99 00 Obsidian/Obsidian - Mechanics.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/topic_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/person_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/meeting_professional_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/meeting_general_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/contact_template.md",
+    "99 00 Obsidian/obsidian-templates/global_notes/company_template.md",
+    "03 00 Global Notes/08 Meetings/2024-03-01_General-Meeting_asdfasfa.md",
+    "03 00 Global Notes/08 Meetings/2024-03-01_Professional-Meeting_asdfasf.md",
+    "03 00 Global Notes/07 Contacts/@asdfasf.md",
+    "03 00 Global Notes/09 People/@asdfasf.md",
+    "03 00 Global Notes/06 Companies/Company - asdf.md",
+    "03 00 Global Notes/05 Topics/Topic - asdfasf.md",
+    "99 00 Obsidian/asdfa.md",
+    "03 00 Global Notes/01 Global Hubs/List of asdfa.md",
+    "Logs.md",
+    "03 00 Global Notes/04 Special Notes",
+    "03 00 Global Notes/03 General Drawings",
     "02 02 Global Notes/01 Global Hubs/List of Tasks.md",
     "03 03 Subjects and Resources/04 Consumer Insights and Research/List of Customer Segments - Consumer Segments - Personas.md",
     "02 02 Global Notes/01 Global Hubs/List of Segmentation Axis - Data Points for Profiling and Targetting.md",
@@ -192,22 +212,6 @@
     "03 01 Projects/Regisedge/product - chatbots/Selling AI Chatbots and LLM applications - Pitch and FAQ.md",
     "03 01 Projects/Regisedge/Project - Regisedge 2.0.md",
     "03 03 Subjects and Resources/09 Product Development/notes/CDP-events.md",
-    "03 03 Subjects and Resources/09 Product Development/notes/Concept - Data modelling - References Tables - Reference Models - Common Data Models.md",
-    "01 00 Core Journal/daily/2022-12-31.md",
-    "02 02 Global Notes/99 Database/contacts/@Gaurav Gupta - Golu.md",
-    "03 02 Areas/04 Work/startup/List of Interesting Startups.md",
-    "03 01 Projects/Regisedge/product - operating systems/Drawing - High Level Architecture - Business Operating Systems.md",
-    "03 03 Subjects and Resources/09 Product Development/notes/8.0 DevOps - Docker and Docker-Compose.md",
-    "02 02 Global Notes/01 Global Hubs/List of Resources.md",
-    "03 01 Projects/Regisedge/solutions/Regisedge - Solution - Revenue Operations.md",
-    "01 00 Core Journal/daily/2024-02-26.md",
-    "03 03 Subjects and Resources/09 Product Development/notes/Note - Working with a previous code base.md",
-    "03 03 Subjects and Resources/09 Product Development/notes/8.3.3 Javascript - Node JS - Deep Dive.md",
-    "03 03 Subjects and Resources/09 Product Development/notes/8.3.0 Javascript - Native.md",
-    "03 03 Subjects and Resources/09 Product Development/notes/8.3.3 Javascript - Next JS - Deep Dive.md",
-    "03 03 Subjects and Resources/09 Product Development/notes/8.2.4 Python - FastAPI - Deep Dive.md",
-    "03 01 Projects/Marriage/Project - Marriage.md",
-    "03 02 Areas/04 Work/startup/List of - Sectors - Business Themes - Startup Ideas - Models - Monetisation - Research.md",
     "design_and_prototyping_resources",
     "99_assets/01 default/Docker Container Lifecycle.png",
     "03 01 Projects/Regisedge/product - operating systems",
@@ -224,8 +228,6 @@
     "99_assets/01 default/Theme research - Blueprint - AI Generated Analytics - AI Business Operating Systems.png",
     "02 02 Global Notes/16 General Drawings",
     "Untitled.canvas",
-    "02 02 Global Notes/09 Database/contacts",
-    "02 02 Global Notes/09 Database/meetings",
     "03 01 Projects/Regisedge/clients/RE - Client - Subal1.0/_notes/Farmer lifecycle.png",
     "03 03 Skills and Resources - Cap Buckets/03 Product Management/notes/Product Blueprint - Merchant systems - research/Swiggy web screenshots/Screenshot 2019-04-25 at 6.33.08 PM.png",
     "03 03 Skills and Resources - Cap Buckets/03 Product Management/notes/Product Blueprint - Merchant systems - research/Swiggy web screenshots/Screenshot 2019-04-25 at 6.35.22 PM.png"

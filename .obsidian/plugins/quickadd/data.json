@@ -1,41 +1,11 @@
 {
   "choices": [
     {
-      "id": "a3999ccf-f715-4a8a-af99-1b9b7efccfa6",
-      "name": "Template - Global - Topic",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/global_topic_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "Topic - {{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/03 Topics/"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    },
-    {
       "id": "6ec17dab-98ad-45fa-8ad9-c49ad9af7052",
       "name": "Template - Global Hub - List",
       "type": "Template",
       "command": false,
-      "templatePath": "99_templates/notes/global_notes/hubs/global_hub_list_template.md",
+      "templatePath": "99 00 Obsidian/obsidian-templates/global_notes/global_hub_list_template.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "List of {{value}}"
@@ -43,337 +13,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "02 02 Global Notes/01 Global Hubs"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    },
-    {
-      "id": "a2568079-c9d0-450b-8ffd-e69ca82e8724",
-      "name": "Template - Global Database - Contact",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/database/contact_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "@{{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/09 Database/contacts/"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "bb1b55e9-693b-41fd-8b6a-fcc4f998d739",
-      "name": "Template - Global Database - Person",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/database/person_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "@{{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/09 Database/people/"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "485bb26b-e5ce-48cc-a7af-54132e7b13a0",
-      "name": "Template - Global Database - Meeting General",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/database/meeting_general_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "{{DATE:YYYY-MM-DD}}_General-Meeting_{{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/09 Database/meetings/"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    },
-    {
-      "id": "9075e83d-fa87-4e93-835f-f56919afae58",
-      "name": "Template - Global Database - Meeting Professional",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/database/meeting_professional_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "{{DATE:YYYY-MM-DD}}_Professional-Meeting_{{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/09 Database/meetings/"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    },
-    {
-      "id": "83099135-4ba7-4dc7-a962-de61235a3927",
-      "name": "Template - Global Database - Company",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/database/company_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "Company - {{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "02 02 Global Notes/09 Database/companies"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    },
-    {
-      "id": "f0bbfda1-75a0-4a29-85cf-314df1d1acd2",
-      "name": "Template - Global Special - Cards",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_card_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "Card - {{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/03 Special Notes/"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    },
-    {
-      "id": "15f3132d-1701-43b1-8937-4507e7432476",
-      "name": "Template - Global Special - Concept",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_concept_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "Concept - {{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/03 Special Notes/"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    },
-    {
-      "id": "bbf830b6-7d9a-46e0-a9cd-cbebd9513703",
-      "name": "Template - Global Special - Workflow",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_workflow_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "Workflow - {{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/03 Special Notes/"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    },
-    {
-      "id": "9b0e3545-b074-4510-b045-50aaa90d84e1",
-      "name": "Template - Global Special - Design Pattern",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_design_pattern_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "Design Pattern - {{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/03 Special Notes/"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    },
-    {
-      "id": "ba47134a-6ae3-4e07-a83a-00a96f2ebf9e",
-      "name": "Template - Global Special - Framework",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_framework_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "Framework - {{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/03 Special Notes/"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
-    },
-    {
-      "id": "88c49928-9e23-45c1-85d4-8fe0b1efd185",
-      "name": "Template - Global Special - Checklist",
-      "type": "Template",
-      "command": false,
-      "templatePath": "99_templates/notes/global_notes/special_notes/global_special_note_checklist_template.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "Checklist - {{value}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "/02 02 Global Notes/03 Special Notes/"
+          "03 00 Global Notes/01 Global Hubs"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -395,7 +35,7 @@
       "name": "Template - Global - General Note",
       "type": "Template",
       "command": false,
-      "templatePath": "99_templates/notes/general_note_template.md",
+      "templatePath": "99 00 Obsidian/obsidian-templates/general_note_template.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{value}}"
@@ -403,8 +43,8 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "02 02 Global Notes/02 General Notes",
-          "/"
+          "/",
+          "03 00 Global Notes/02 General Notes"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -426,7 +66,7 @@
       "name": "Template - Global - General Note - Here",
       "type": "Template",
       "command": false,
-      "templatePath": "99_templates/notes/general_note_template.md",
+      "templatePath": "99 00 Obsidian/obsidian-templates/general_note_template.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{value}}"
@@ -439,6 +79,216 @@
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": true,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "a3999ccf-f715-4a8a-af99-1b9b7efccfa6",
+      "name": "Template - Global - Topic",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99 00 Obsidian/obsidian-templates/global_notes/topic_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Topic - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03 00 Global Notes/05 Topics"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "83099135-4ba7-4dc7-a962-de61235a3927",
+      "name": "Template - Global - Company",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99 00 Obsidian/obsidian-templates/global_notes/company_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Company - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03 00 Global Notes/06 Companies"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "a2568079-c9d0-450b-8ffd-e69ca82e8724",
+      "name": "Template - Global - Contact",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99 00 Obsidian/obsidian-templates/global_notes/contact_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "@{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03 00 Global Notes/07 Contacts"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "bb1b55e9-693b-41fd-8b6a-fcc4f998d739",
+      "name": "Template - Global - Person",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99 00 Obsidian/obsidian-templates/global_notes/person_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "@{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03 00 Global Notes/09 People"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "485bb26b-e5ce-48cc-a7af-54132e7b13a0",
+      "name": "Template - Global - Meeting General",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99 00 Obsidian/obsidian-templates/global_notes/meeting_general_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}}_General-Meeting_{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03 00 Global Notes/08 Meetings"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "9075e83d-fa87-4e93-835f-f56919afae58",
+      "name": "Template - Global - Meeting Professional",
+      "type": "Template",
+      "command": false,
+      "templatePath": "99 00 Obsidian/obsidian-templates/global_notes/meeting_professional_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}}_Professional-Meeting_{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03 00 Global Notes/08 Meetings"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "f0bbfda1-75a0-4a29-85cf-314df1d1acd2",
+      "name": "Template - Global Special - Cards",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Card - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03 00 Global Notes/04 Special Notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
       "appendLink": true,

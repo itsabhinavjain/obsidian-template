@@ -3,4 +3,4 @@
 
 ---
 ## Additional metadata
-Type:: #type/hub/topic  
+Type:: #type/topic  

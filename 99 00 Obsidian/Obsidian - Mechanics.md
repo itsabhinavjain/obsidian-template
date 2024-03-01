@@ -3,16 +3,27 @@
 ## What this repo contains? 
 - Opinions 
 	- Opinion on various sections in a note 
-		- Navigation 
-		- Summary 
-		- Table of contents 
-		- (Details)
-		- References
-		- Additional metadata
-		- Rough notes
-	- List of folders - and how information should be organised 
-		- Setup of dates and journals 
-		- Setup of the common type of notes
+		- Common sections
+			- Navigation 
+			- Summary 
+			- Table of contents 
+			- (Details)
+			- References
+			- Additional metadata
+			- Rough notes
+		- Lists can be `automated` or `manual`
+	- List of folders and note types - and how information should be organised 
+		- Setup of dates and journals (and their templates)
+		- Setup of the common type of notes (and their templates)
+			- Global Hubs - List etc 
+			- General Notes
+			- General Drawings 
+			- Special Notes - Cards etc 
+			- Topics 
+			- Companies 
+			- Contacts 
+			- Meetings 
+			- People 
 		- Folder structure
 	- List of plugins and their configuration 
 		- Calendar and Periodic Notes
@@ -26,20 +37,29 @@
 		- Paste Image Rename
 		- Theme settings 
 	- List of keyboard shortcuts for efficiency 
+	- Opinion on usage of tags and file naming conventions
 ## Initial setup of a new vault 
 - Copy into a different folder 
-- Fix the special notes (Most in the root)
+- Set the special notes (Most in the root)
 	- Entry points to the vault - The most widely used and current focus area and notes
-- Fix various types of note
-	- Templates, Folders, QuickAdd and List 
-## Using the vault 
-- Special notes
-- For each type of notes 
+- Set various types of notes
 	- Create a template 
 	- Create a folder 
 	- Create a QuickAdd
 	- Create a list of that type 
+- Setup git (Optional)
+## Using the vault 
+- Special notes and entry points
+- For each new type of notes you add - Follow the 4 steps - Template, Folder, QuickAdd, List 
 - Tags 
-	- Bullet tags 
-	- Status tags 
-	- Type tags 
+	- Bullet tags - 
+	- Status tags - 
+		- #status/critical : Super super important 
+		- #status/inbox  : Essentially just added and still have to be processed 
+		- #status/backlog : Essentially added to the someday bucket in case you want to pick it up later
+		- #status/todo : What needs to be done on priority 
+		- #status/in-progress : What you are currently actively working on 
+		- #status/done : Should be essentially used when an output is generated and you need a list of items
+		- #status/waiting : Waiting for another task or person to give an input  
+		- #status/sort : Still to sort this out at a later point in time
+	- Type tags - #type

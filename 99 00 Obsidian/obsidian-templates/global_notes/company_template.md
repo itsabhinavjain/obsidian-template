@@ -5,5 +5,5 @@
 
 ---
 ## Additional metadata
-Type:: #type/database/company 
+Type:: #type/company
 

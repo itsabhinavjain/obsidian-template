@@ -9,4 +9,4 @@ aliases:
 
 ---
 ## Additional metadata
-Type:: #type/database/person
+Type:: #type/person
