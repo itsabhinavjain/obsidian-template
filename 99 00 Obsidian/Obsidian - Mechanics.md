@@ -40,6 +40,7 @@
 	- Opinion on usage of tags and file naming conventions
 ## Initial setup of a new vault 
 - Copy into a different folder 
+- Remove the .git folder (Optional) 
 - Set the special notes (Most in the root)
 	- Entry points to the vault - The most widely used and current focus area and notes
 - Set various types of notes
